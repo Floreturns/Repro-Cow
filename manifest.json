@@ -1,11 +1,11 @@
 {
-    "name": "repromeuhmeuh",
-    "short_name": "repromeuhmeuh",
+    "name": "ReproAndCow",
+    "short_name": "ReproAndCow",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Learn Cow reprodution",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
